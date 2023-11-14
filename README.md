@@ -14,7 +14,7 @@ This software is used to simulate reads for an annotated genome, use CARD's (car
 I compared aligner `kma` and `bowtie2` for simulated reads from a complete plasmid genome (JN420336.1). The reads were simulated at multiple depths i.e 10x, 20x, 30x, 40x etc using `ART_Illumina`. The AMR genes annotated for this genome (JN420336.1) are show in the table below:
 
 | Gene    | Strand | Start | Stop |
-| -------- | ------- | ------- | ------- |
+| :--------: | :-------: | :-------: | -------: |
 | catB3  | -    |  821    |  1262    |
 | OXA-1 | -     |  1400    |  2230    |
 | AAC(6’)-Ib    | -    |  2361    |  2960    |
